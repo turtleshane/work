@@ -1,0 +1,112 @@
+    1  cd /work
+    2  cd work
+    3  cd journal
+    4  sudo kate
+    5  tetris-bsd
+    6  cd
+    7  tetris-bsd
+    8  sudo apt-get install bsdgames
+    9  tetris
+   10  tetris-bsd
+   11  man calender
+   12  man calendar
+   13  calendar.history
+   14  sudo calender.history
+   15  man history
+   16  man calendar
+   17  calendar
+   18  man calendar
+   19  [[[19]94]12]06
+   20  calendar [[[19]94]12]06
+   21  man calendar
+   22  calendar -t  [[[19]94]12]06
+   23  calendar -t  [[[19]94]06]12
+   24  calendar -t  [[[19]94]12]06
+   25  calendar -t  [[[19]94]00]06
+   26  git clone https://github.com/macee/turtleshane.git
+   27  git push
+   28  git config --global user.name "turtleshane"
+   29  git config --global user.email "shane.p.corbett@uscga.edu"
+   30  git config --global credential.helper cache
+   31  git push origin master
+   32  git init
+   33  git add work
+   34  git push origin master
+   35  git commit -m "First commit"
+   36  git remote add origin https://github.com/turtleshane/work
+   37  git push origin master
+   38  git clone https://github.com/macee/corbett.git
+   39  git remote add origin https://github.com/macee/corbett.git
+   40  git push origin master
+   41  su
+   42  su pi
+   43  cd
+   44  kate
+   45  gksu
+   46  gksu kate config
+   47  gksu kate
+   48  GKSU kate
+   49  sudo kate
+   50  sudo adduser corbett sudo
+   51  su pi
+   52  cd /home/corbett
+   53  git clone https://github.com/macee/tux_15.git
+   54  mkdir work
+   55  cd work
+   56  history > history_01SEP.txt
+   57  ls
+   58  echo "# work" >> README.md
+   59  git init
+   60  git add README.md
+   61  git commit -m "first commit"
+   62  git remote add origin https://github.com/turtleshane/work.git
+   63  git push -u origin master
+   64  mkdir journal
+   65  cd home
+   66  cd /home
+   67  ls
+   68  cd pi
+   69  ls
+   70  cd
+   71  cd /home/pi
+   72  apropo calc
+   73  apropose calc
+   74  apropros calc
+   75  apropos calc
+   76  galculator
+   77  run galculator
+   78  galculator (1)
+   79  galculator
+   80  cd
+   81  galculator
+   82  man man
+   83  sudo whoami
+   84  cd/home/pi
+   85  cd /home/pi
+   86  ls
+   87  mv /home/pi/journal_1.txt /home/corbett/work/journal
+   88  /journal_1
+   89  mv ~/home/pi/journal_1.txt /home/corbett/work/journal
+   90  mv /home/pi/journal_1.txt /home/corbett/work/journal
+   91  mv /home/pi/journal_1 /home/corbett/work/journal
+   92  su
+   93  g
+   94  su pi
+   95  startx
+   96  ls
+   97  cd work
+   98  ls
+   99  git add -A
+  100  ls
+  101  sudo shutdown
+  102  whoami
+  103  cd home
+  104  cd
+  105  tetris
+  106  tetris-bsd
+  107  help calendar
+  108  man calendar
+  109  -t [[[19]94]12]06
+  110  calendar -t [[[19]94]12]06
+  111  kate
+  112  history > history_14SEP.txt
